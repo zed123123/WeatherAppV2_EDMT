@@ -25,6 +25,7 @@
             android:text="Weather in London, GB"
             android:textSize="24sp"
             android:textStyle="bold"
+            android:textColor="@color/colorPrimaryDark"
             android:textAlignment="center"
             android:layout_gravity="center"/>
 
@@ -92,12 +93,12 @@
 
                 <TextView
                     android:id="@+id/txtWind"
-                    android:text="Speed: 1 Deg: 1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
-                </TextView>
+                    android:text="Speed: 1 Deg: 1"
+                    android:textAlignment="viewEnd"/>
             </TableRow>
 
             <TableRow
@@ -117,7 +118,8 @@
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:textAlignment="viewEnd">
                 </TextView>
             </TableRow>
 
@@ -138,7 +140,8 @@
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:textAlignment="viewEnd">
                 </TextView>
             </TableRow>
 
@@ -159,7 +162,8 @@
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:textAlignment="viewEnd">
                 </TextView>
             </TableRow>
 
@@ -180,7 +184,8 @@
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:textAlignment="viewEnd">
                 </TextView>
             </TableRow>
 
@@ -201,17 +206,18 @@
                     android:layout_column="1"
                     android:layout_marginLeft="8dp"
                     android:layout_width="wrap_content"
-                    android:layout_height="wrap_content">
+                    android:layout_height="wrap_content"
+                    android:textAlignment="viewEnd">
                 </TextView>
             </TableRow>
         </TableLayout>
     </LinearLayout>
 
     <androidx.core.widget.ContentLoadingProgressBar
+        android:id="@+id/loading"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/loading"
-        android:indeterminate="true"
-        android:layout_centerInParent="true"/>
+        android:layout_centerInParent="true"
+        android:indeterminate="false" />
 
 </RelativeLayout>
