@@ -33,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/weatherappv2_edmt/CityFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="311">
-              <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="133" selection-end-column="78" />
+              <caret line="132" selection-start-line="132" selection-end-line="133" selection-end-column="78" />
               <folding>
                 <element signature="e#6631#8665#0" expanded="true" />
                 <element signature="e#8664#8665#0" expanded="true" />
@@ -48,7 +48,7 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_city.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
           <provider editor-type-id="android-designer2" />
@@ -91,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/weatherappv2_edmt/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="96" selection-start-line="96" selection-end-line="96" />
+            <state relative-caret-position="293">
+              <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#3588#4220#0" expanded="true" />
                 <element signature="e#4219#4220#0" expanded="true" />
@@ -105,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="362">
-              <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+              <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -132,7 +132,7 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/WeatherAppV2_EDMT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -237,11 +237,12 @@
   <component name="PropertiesComponent">
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="781edaf60504" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-02T08:05:42.824Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="E:/SoftwareInstalled/AndroidSDK" />
     <property name="device.picker.selection" value="781edaf60504" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/raw" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -333,11 +334,18 @@
       <option name="presentableId" value="Default" />
       <updated>1569225252307</updated>
     </task>
+    <task id="LOCAL-00001" summary="WeatherAppV2_EDMT">
+      <created>1570186255511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570186255511</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.2495637" />
       <window_info id="Designer" order="1" />
@@ -354,7 +362,7 @@
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.50067115" side_tool="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.38268158" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.38268158" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.26675978" />
       <window_info anchor="bottom" id="Logcat" order="8" weight="0.37988827" />
       <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49932885" weight="0.32960895" />
@@ -367,6 +375,13 @@
       <window_info active="true" anchor="right" id="Assistant" order="6" visible="true" weight="0.3295302" />
       <window_info anchor="right" id="Android WiFi ADB" order="7" weight="0.3295302" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/WeatherAppV2_EDMT" />
+    </ignored-roots>
+    <MESSAGE value="WeatherAppV2_EDMT" />
+    <option name="LAST_COMMIT_MESSAGE" value="WeatherAppV2_EDMT" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -780,7 +795,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/fragment_city.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
       <provider editor-type-id="android-designer2" />
@@ -788,7 +803,7 @@
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
-          <caret line="43" column="50" lean-forward="true" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
+          <caret line="43" column="50" selection-start-line="43" selection-start-column="50" selection-end-line="43" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -820,7 +835,7 @@
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/weatherappv2_edmt/CityFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
-          <caret line="132" lean-forward="true" selection-start-line="132" selection-end-line="133" selection-end-column="78" />
+          <caret line="132" selection-start-line="132" selection-end-line="133" selection-end-column="78" />
           <folding>
             <element signature="e#6631#8665#0" expanded="true" />
             <element signature="e#8664#8665#0" expanded="true" />
@@ -842,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/weatherappv2_edmt/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        <state relative-caret-position="293">
+          <caret line="100" lean-forward="true" selection-start-line="100" selection-end-line="100" />
           <folding>
             <element signature="e#3588#4220#0" expanded="true" />
             <element signature="e#4219#4220#0" expanded="true" />
