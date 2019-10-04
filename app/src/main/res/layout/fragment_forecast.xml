@@ -19,7 +19,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="5 DAYS WEATHER FORECAST"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/text_Color"
             android:textSize="24sp"
             android:textStyle="bold" />
 
@@ -28,7 +28,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Weather in London, GB"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/text_Color"
             android:textSize="20sp"
             android:textStyle="bold" />
 
@@ -37,7 +37,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="[35.42]"
-            android:textColor="@color/colorPrimaryDark"
+            android:textColor="@color/text_Color"
             android:textSize="18sp"
             android:textStyle="bold" />
 
